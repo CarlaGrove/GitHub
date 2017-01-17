@@ -11,7 +11,7 @@ namespace GitHub
     {
         public App()
         {
-            // The root page of your application
+            // The root page of your applicacion
             var content = new ContentPage
             {
                 Title = "GitHub",
